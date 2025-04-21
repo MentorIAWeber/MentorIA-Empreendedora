@@ -1,0 +1,57 @@
+[
+    {
+      "maestria": "Emocional",
+      "tema": "Gestão do Estresse e Resiliência",
+      "conhecimento": "Estresse é como carregar uma mochila pesada, e resiliência é aprender a deixar ela mais leve mesmo quando as coisas ficam difíceis.",
+      "habilidade": "Tente esta técnica de respiração: inspire por 4 segundos, segure por 4, expire por 4. Faça por 1 minuto quando se sentir pressionado.",
+      "atitude": "Você é mais forte do que pensa! Cada vez que respira fundo, você cresce um pouco mais.",
+      "ooda_observar": "Como você se sente agora? Muito estressado?",
+      "ooda_orientar": "Se está sobrecarregado, a respiração pode ajudar.",
+      "ooda_decidir": "Vamos tentar a técnica por 1 minuto?",
+      "ooda_agir": "Faça agora e me conte como foi!"
+    },
+    {
+      "maestria": "Empreendedora",
+      "tema": "Definição de Visão",
+      "conhecimento": "Visão é como sonhar onde você quer que seu negócio esteja, tipo imaginar sua loja cheia de clientes.",
+      "habilidade": "Escreva uma frase sobre o que você quer em 1 ano. Exemplo: 'Quero vender 50 bolos por semana.'",
+      "atitude": "Você tem ideias incríveis! Escrever sua visão é o primeiro passo para torná-la real!",
+      "ooda_observar": "O que você quer para seu negócio no futuro?",
+      "ooda_orientar": "Pense em algo específico, como mais clientes ou um produto novo.",
+      "ooda_decidir": "Escreva sua visão hoje.",
+      "ooda_agir": "Pegue um papel e escreva agora!"
+    },
+    {
+      "maestria": "Empreendedora",
+      "tema": "Iniciativa",
+      "conhecimento": "Iniciativa é como dar o primeiro passo numa corrida, mesmo sem saber se vai ganhar.",
+      "habilidade": "Escolha uma ideia pequena, como ligar para um cliente hoje, e faça isso amanhã.",
+      "atitude": "Você é corajoso por começar! Cada ação te leva mais longe!",
+      "ooda_observar": "Quais ideias você tem para seu negócio?",
+      "ooda_orientar": "Escolha uma ideia simples para testar.",
+      "ooda_decidir": "Faça uma ação pequena amanhã.",
+      "ooda_agir": "Ligue para um cliente ou poste algo nas redes agora!"
+    },
+    {
+      "maestria": "Empresarial",
+      "tema": "Planejamento",
+      "conhecimento": "Planejar é como fazer uma lista para uma festa: você decide o que precisa e como fazer.",
+      "habilidade": "Escreva 3 coisas que quer fazer na sua semana, como 'vender 10 produtos' ou 'organizar gastos'.",
+      "atitude": "Você está tomando as rédeas do seu negócio! Planejar te deixa mais confiante!",
+      "ooda_observar": "O que você precisa fazer esta semana?",
+      "ooda_orientar": "Pense em 3 tarefas importantes.",
+      "ooda_decidir": "Escreva sua lista hoje.",
+      "ooda_agir": "Pegue um caderno e anote agora!"
+    },
+    {
+      "maestria": "Empresarial",
+      "tema": "Controle",
+      "conhecimento": "Controlar é como checar se seu bolo está assando direitinho, para não queimar.",
+      "habilidade": "Todo domingo, anote quanto ganhou e quanto gastou na semana. Se gastou mais, corte algo.",
+      "atitude": "Você está no comando do seu dinheiro! Cada anotação te deixa mais esperto!",
+      "ooda_observar": "Quanto você ganhou e gastou esta semana?",
+      "ooda_orientar": "Anote tudo para ver se está no caminho certo.",
+      "ooda_decidir": "Faça sua anotação no domingo.",
+      "ooda_agir": "Crie uma tabela simples hoje!"
+    }
+  ]
