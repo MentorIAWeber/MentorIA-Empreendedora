@@ -1,57 +1,126 @@
 [
-    {
-      "maestria": "Emocional",
-      "tema": "Gestão do Estresse e Resiliência",
-      "conhecimento": "Estresse é como carregar uma mochila pesada, e resiliência é aprender a deixar ela mais leve mesmo quando as coisas ficam difíceis.",
-      "habilidade": "Tente esta técnica de respiração: inspire por 4 segundos, segure por 4, expire por 4. Faça por 1 minuto quando se sentir pressionado.",
-      "atitude": "Você é mais forte do que pensa! Cada vez que respira fundo, você cresce um pouco mais.",
-      "ooda_observar": "Como você se sente agora? Muito estressado?",
-      "ooda_orientar": "Se está sobrecarregado, a respiração pode ajudar.",
-      "ooda_decidir": "Vamos tentar a técnica por 1 minuto?",
-      "ooda_agir": "Faça agora e me conte como foi!"
-    },
-    {
-      "maestria": "Empreendedora",
-      "tema": "Definição de Visão",
-      "conhecimento": "Visão é como sonhar onde você quer que seu negócio esteja, tipo imaginar sua loja cheia de clientes.",
-      "habilidade": "Escreva uma frase sobre o que você quer em 1 ano. Exemplo: 'Quero vender 50 bolos por semana.'",
-      "atitude": "Você tem ideias incríveis! Escrever sua visão é o primeiro passo para torná-la real!",
-      "ooda_observar": "O que você quer para seu negócio no futuro?",
-      "ooda_orientar": "Pense em algo específico, como mais clientes ou um produto novo.",
-      "ooda_decidir": "Escreva sua visão hoje.",
-      "ooda_agir": "Pegue um papel e escreva agora!"
-    },
-    {
-      "maestria": "Empreendedora",
-      "tema": "Iniciativa",
-      "conhecimento": "Iniciativa é como dar o primeiro passo numa corrida, mesmo sem saber se vai ganhar.",
-      "habilidade": "Escolha uma ideia pequena, como ligar para um cliente hoje, e faça isso amanhã.",
-      "atitude": "Você é corajoso por começar! Cada ação te leva mais longe!",
-      "ooda_observar": "Quais ideias você tem para seu negócio?",
-      "ooda_orientar": "Escolha uma ideia simples para testar.",
-      "ooda_decidir": "Faça uma ação pequena amanhã.",
-      "ooda_agir": "Ligue para um cliente ou poste algo nas redes agora!"
-    },
-    {
-      "maestria": "Empresarial",
-      "tema": "Planejamento",
-      "conhecimento": "Planejar é como fazer uma lista para uma festa: você decide o que precisa e como fazer.",
-      "habilidade": "Escreva 3 coisas que quer fazer na sua semana, como 'vender 10 produtos' ou 'organizar gastos'.",
-      "atitude": "Você está tomando as rédeas do seu negócio! Planejar te deixa mais confiante!",
-      "ooda_observar": "O que você precisa fazer esta semana?",
-      "ooda_orientar": "Pense em 3 tarefas importantes.",
-      "ooda_decidir": "Escreva sua lista hoje.",
-      "ooda_agir": "Pegue um caderno e anote agora!"
-    },
-    {
-      "maestria": "Empresarial",
-      "tema": "Controle",
-      "conhecimento": "Controlar é como checar se seu bolo está assando direitinho, para não queimar.",
-      "habilidade": "Todo domingo, anote quanto ganhou e quanto gastou na semana. Se gastou mais, corte algo.",
-      "atitude": "Você está no comando do seu dinheiro! Cada anotação te deixa mais esperto!",
-      "ooda_observar": "Quanto você ganhou e gastou esta semana?",
-      "ooda_orientar": "Anote tudo para ver se está no caminho certo.",
-      "ooda_decidir": "Faça sua anotação no domingo.",
-      "ooda_agir": "Crie uma tabela simples hoje!"
-    }
-  ]
+  {
+    "maestria": "Emocional",
+    "tema": "Inteligência Emocional",
+    "conhecimento": "Inteligência emocional é reconhecer e gerenciar suas emoções, bem como compreender as emoções dos outros.",
+    "habilidade": "Pratique mindfulness, registre suas emoções diariamente, e faça pausas estratégicas.",
+    "atitude": "Suas emoções são informações valiosas. Transforme medo em ação.",
+    "ooda_observar": "Observe suas emoções sem julgamento.",
+    "ooda_orientar": "Entenda como suas emoções afetam suas decisões.",
+    "ooda_decidir": "Escolha a resposta emocional mais adequada.",
+    "ooda_agir": "Aja alinhado com seus objetivos."
+  },
+  {
+    "maestria": "Empreendedora",
+    "tema": "Visão",
+    "conhecimento": "A visão do seu negócio é como uma foto do futuro que você quer criar.",
+    "habilidade": "Reflita sobre o propósito do seu negócio, projete-se 5 anos no futuro, e resuma sua visão.",
+    "atitude": "Uma visão clara emociona e motiva.",
+    "ooda_observar": "Observe constantemente o ambiente para validar sua visão.",
+    "ooda_orientar": "Contextualize suas observações no seu propósito maior.",
+    "ooda_decidir": "Priorize ações alinhadas com sua visão.",
+    "ooda_agir": "Comunique sua visão para inspirar todos ao seu redor."
+  },
+  {
+    "maestria": "Empresarial",
+    "tema": "Planejamento",
+    "conhecimento": "Planejamento é como fazer um mapa antes de uma viagem.",
+    "habilidade": "Defina 1-3 objetivos claros para os próximos 3 meses, divida em tarefas menores.",
+    "atitude": "Cada minuto em planejamento economiza horas.",
+    "ooda_observar": "Observe atentamente o ambiente do seu negócio.",
+    "ooda_orientar": "Analise padrões e oportunidades.",
+    "ooda_decidir": "Defina objetivos claros e estratégias específicas.",
+    "ooda_agir": "Implemente seu plano com disciplina."
+  },
+  {
+    "maestria": "Emocional",
+    "tema": "Autoconsciência",
+    "conhecimento": "Autoconsciência emocional é perceber suas emoções, como uma lanterna que ilumina seus sentimentos.",
+    "habilidade": "Reserve 5 minutos diários para um check-in emocional, anote situações e emoções.",
+    "atitude": "Empreendedores autoconscientes tomam decisões 30% melhores.",
+    "ooda_observar": "Observe suas emoções sem julgá-los.",
+    "ooda_orientar": "Interprete suas emoções no contexto do seu negócio.",
+    "ooda_decidir": "Decida se as emoções estão ajudando ou atrapalhando.",
+    "ooda_agir": "Aja alinhado com seus objetivos.",
+    "analogias": ["Autoconsciência é como uma lanterna"],
+    "exemplos_praticos": ["Perceber ansiedade antes de reuniões"]
+  },
+  {
+    "maestria": "Empresarial",
+    "tema": "Gestão Financeira",
+    "conhecimento": "Gestão financeira é como cuidar do bolso do seu negócio.",
+    "habilidade": "Registre vendas e gastos diários, separe 20% para emergências, use uma planilha.",
+    "atitude": "Controlar finanças aumenta lucros em 25%.",
+    "ooda_observar": "Acompanhe todo o dinheiro que entra e sai.",
+    "ooda_orientar": "Compare com suas metas financeiras.",
+    "ooda_decidir": "Ajuste gastos ou preços se necessário.",
+    "ooda_agir": "Use a planilha e reserve dinheiro para imprevistos.",
+    "analogias": ["Gestão financeira é como cuidar de uma horta"],
+    "exemplos_praticos": ["Anotar vendas diárias em um caderno ou app"]
+  },
+  {
+    "maestria": "Emocional",
+    "tema": "Empatia",
+    "conhecimento": "Empatia é entender os sentimentos dos outros, como se colocar nos sapatos de um cliente.",
+    "habilidade": "Pratique escuta ativa: ouça sem interromper, faça perguntas abertas, observe gestos.",
+    "atitude": "Valorize as emoções dos outros. Clientes satisfeitos compram 2x mais.",
+    "ooda_observar": "Perceba sinais não-verbais, como tom de voz.",
+    "ooda_orientar": "Entenda o contexto do cliente.",
+    "ooda_decidir": "Escolha respostas que criem conexão.",
+    "ooda_agir": "Aja com gentileza e atenção às necessidades.",
+    "analogias": ["Empatia é como calçar os sapatos de outra pessoa"],
+    "exemplos_praticos": ["Um cliente frustrado explica um problema, e você ouve com atenção"]
+  },
+  {
+    "maestria": "Empreendedora",
+    "tema": "Gestão de Riscos",
+    "conhecimento": "Gestão de riscos é como checar o tempo antes de sair. É prever problemas e planejar soluções.",
+    "habilidade": "Liste riscos possíveis, avalie a chance e impacto, crie um plano B simples.",
+    "atitude": "Seja corajoso, mas esperto. Riscos calculados levam a grandes vitórias.",
+    "ooda_observar": "Identifique ameaças, como novos concorrentes.",
+    "ooda_orientar": "Analise o impacto no seu negócio.",
+    "ooda_decidir": "Escolha formas de reduzir riscos.",
+    "ooda_agir": "Coloque o plano B em prática se necessário.",
+    "analogias": ["Riscos são como nuvens escuras: prepare o guarda-chuva"],
+    "exemplos_praticos": ["Testar um produto novo com poucos clientes antes de lançar"]
+  },
+  {
+    "maestria": "Empresarial",
+    "tema": "Controle",
+    "conhecimento": "Controle é como verificar o mapa durante uma viagem. É acompanhar se seu negócio está no caminho certo.",
+    "habilidade": "Defina 2-3 números importantes, como vendas mensais, e acompanhe semanalmente.",
+    "atitude": "Acompanhe com disciplina. Saber o que acontece aumenta lucros em 20%.",
+    "ooda_observar": "Coletar dados, como vendas ou gastos.",
+    "ooda_orientar": "Comparar com seus objetivos.",
+    "ooda_decidir": "Ajustar ações se algo estiver errado.",
+    "ooda_agir": "Corrigir o curso, como reduzir custos.",
+    "analogias": ["Controle é como checar o GPS do seu negócio"],
+    "exemplos_praticos": ["Verificar se as vendas estão dentro da meta"]
+  },
+  {
+    "maestria": "Emocional",
+    "tema": "Autogestão Emocional",
+    "conhecimento": "Autogestão é controlar suas emoções, como ajustar o volume de uma música alta.",
+    "habilidade": "Respire fundo 5 vezes antes de responder com raiva, pratique pausas de 5 minutos.",
+    "atitude": "Emoções controladas melhoram decisões em 30%. Seja o maestro do seu humor.",
+    "ooda_observar": "Note quando está irritado ou ansioso.",
+    "ooda_orientar": "Pense no motivo e no impacto.",
+    "ooda_decidir": "Escolha uma ação calma, como pausar.",
+    "ooda_agir": "Aja com equilíbrio, evitando impulsos.",
+    "analogias": ["Autogestão é como ajustar o termostato do seu humor"],
+    "exemplos_praticos": ["Pausar antes de responder a um cliente nervoso"]
+  },
+  {
+    "maestria": "Empresarial",
+    "tema": "Organização",
+    "conhecimento": "Organização é arrumar seu negócio como uma caixa de ferramentas, tudo no lugar certo.",
+    "habilidade": "Liste tarefas diárias, delegue o que puder, use um caderno ou app para acompanhar.",
+    "atitude": "Um negócio organizado economiza 10 horas por semana. Seja o mestre da ordem!",
+    "ooda_observar": "Note onde há bagunça ou atrasos.",
+    "ooda_orientar": "Pense no que trava seu trabalho.",
+    "ooda_decidir": "Escolha formas de simplificar tarefas.",
+    "ooda_agir": "Crie uma lista de tarefas e siga-a.",
+    "analogias": ["Organização é como arrumar um quarto: tudo fica mais fácil de achar"],
+    "exemplos_praticos": ["Usar um app para listar pedidos de clientes"]
+  }
+]
