@@ -11,15 +11,56 @@
     "ooda_agir": "Aja alinhado com seus objetivos."
   },
   {
+    "maestria": "Emocional",
+    "tema": "Resiliência",
+    "conhecimento": "Resiliência é voltar mais forte após um tombo, como uma bola de borracha que quica alto.",
+    "habilidade": "Após um fracasso, anote o que aprendeu, faça 1 mudança pequena e tente de novo.",
+    "atitude": "Cada erro é uma lição. 70% dos MEIs crescem após aprendizados!",
+    "ooda_observar": "Note o que deu errado e por quê.",
+    "ooda_orientar": "Pense no que você pode melhorar.",
+    "ooda_decidir": "Escolha uma ação para corrigir o erro.",
+    "ooda_agir": "Tente novamente com a nova abordagem.",
+    "analogias": ["Resiliência é como uma bola que quica após cair"],
+    "exemplos_praticos": ["Um MEI perde um cliente, mas aprende a melhorar o atendimento"]
+  },
+  {
     "maestria": "Empreendedora",
     "tema": "Visão",
-    "conhecimento": "A visão do seu negócio é como uma foto do futuro que você quer criar.",
-    "habilidade": "Reflita sobre o propósito do seu negócio, projete-se 5 anos no futuro, e resuma sua visão.",
-    "atitude": "Uma visão clara emociona e motiva.",
-    "ooda_observar": "Observe constantemente o ambiente para validar sua visão.",
-    "ooda_orientar": "Contextualize suas observações no seu propósito maior.",
-    "ooda_decidir": "Priorize ações alinhadas com sua visão.",
-    "ooda_agir": "Comunique sua visão para inspirar todos ao seu redor."
+    "conhecimento": "A visão do seu negócio é uma foto clara do futuro que você quer criar, guiando cada passo seu.",
+    "habilidade": "Escreva onde quer estar em 5 anos, simplifique em 1 frase, e compartilhe com sua equipe ou clientes.",
+    "atitude": "Uma visão forte inspira você e atrai clientes. Sonhe grande, mas mantenha os pés no chão!",
+    "ooda_observar": "Analise o mercado e seus sonhos para formar sua visão.",
+    "ooda_orientar": "Pense como sua visão resolve problemas dos clientes.",
+    "ooda_decidir": "Escolha uma visão clara e memorável.",
+    "ooda_agir": "Comunique sua visão em todas as ações do negócio.",
+    "analogias": ["Visão é como uma estrela-guia para um navegador"],
+    "exemplos_praticos": ["Uma padaria decide ser 'a melhor em pães artesanais da cidade' e foca nisso"]
+  },
+  {
+    "maestria": "Empreendedora",
+    "tema": "Iniciativa",
+    "conhecimento": "Iniciativa é ver uma oportunidade e agir rápido, como pegar a melhor onda no surfe.",
+    "habilidade": "Liste 3 ideias para melhorar seu negócio, escolha 1 simples e teste em 1 semana.",
+    "atitude": "Aja mesmo com medo! 80% das ideias testadas geram aprendizados valiosos.",
+    "ooda_observar": "Note o que clientes pedem ou o que concorrentes não fazem.",
+    "ooda_orientar": "Pense como a ideia pode trazer lucro ou clientes.",
+    "ooda_decidir": "Escolha a ideia mais fácil de testar agora.",
+    "ooda_agir": "Coloque a ideia em prática e veja o resultado.",
+    "analogias": ["Iniciativa é como abrir a porta para novas possibilidades"],
+    "exemplos_praticos": ["Um cabeleireiro oferece um corte grátis para atrair novos clientes"]
+  },
+  {
+    "maestria": "Empreendedora",
+    "tema": "Gestão de Riscos",
+    "conhecimento": "Gestão de riscos é prever problemas e se preparar, como levar um guarda-chuva em um dia nublado.",
+    "habilidade": "Liste 2-3 riscos do seu negócio, avalie a chance (alta/baixa) e o impacto, crie um plano B.",
+    "atitude": "Riscos são normais! Preparação aumenta suas chances em 30%.",
+    "ooda_observar": "Identifique ameaças, como perda de clientes ou custos altos.",
+    "ooda_orientar": "Pense no impacto de cada risco no seu negócio.",
+    "ooda_decidir": "Escolha ações para evitar ou reduzir riscos.",
+    "ooda_agir": "Execute seu plano B se o risco acontecer.",
+    "analogias": ["Gestão de riscos é como checar o caminho antes de viajar"],
+    "exemplos_praticos": ["Um MEI guarda 5%-10% das vendas para cobrir imprevistos"]
   },
   {
     "maestria": "Empresarial",
@@ -30,7 +71,9 @@
     "ooda_observar": "Observe atentamente o ambiente do seu negócio.",
     "ooda_orientar": "Analise padrões e oportunidades.",
     "ooda_decidir": "Defina objetivos claros e estratégias específicas.",
-    "ooda_agir": "Implemente seu plano com disciplina."
+    "ooda_agir": "Implemente seu plano com disciplina.",
+    "analogias": ["Planejamento é como fazer um mapa antes de uma viagem"],
+    "exemplos_praticos": ["Um MEI que vende doces define vender 50 brigadeiros por semana, dividindo em tarefas como comprar ingredientes e divulgar nas redes sociais"]
   },
   {
     "maestria": "Emocional",
